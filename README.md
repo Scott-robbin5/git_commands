@@ -1,1 +1,1 @@
-# git_commands
+# this file contains the git commands and what they do
